@@ -81,6 +81,8 @@ This repo was built for my ongoing project of publishing an introductory Chinese
 |刘爽|张甜甜| 广义线性模型 |
 |崔虞馨|丁奎元 | 双重差分回归|
 |赵莹|刘兆萍 | 因子分析|
+|王晖|王晓文| |
+|王姣|张卉| |
 
 
 吕小康
